@@ -1,10 +1,22 @@
+* { margin: 0; }
 .container{
 	border-style: solid;
 	color: pink;
+	border-color: purple;
+	padding: 10px 25px 10px 25px
 }
 #blue {
 	color: blue;
 }
 .text{
 	background-color: blueviolet;
+	font-family: 'Raleway', sans-serif;
 }
+#img1{
+	width: 240px;
+	height: 135px;
+}
+#h1cats {
+	 background-image: url("../images/15.jpg");
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
